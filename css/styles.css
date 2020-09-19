@@ -1,0 +1,24 @@
+body {
+  background: #000f0d;
+  margin: 0;
+  padding: 0;
+  color: #fefde8;
+}
+
+h1 {
+  text-align: center;
+}
+
+.imageContainer {
+  width: 75vw;
+  margin: auto;
+}
+
+.imageContainer img {
+  max-height: 80vh;
+  margin: auto;
+}
+
+.slick-dots li button:before, .slick-dots li.slick-active button:before {
+  color: #fefde8;
+}
